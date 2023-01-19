@@ -1,0 +1,63 @@
+/*Ethan Dankwa*/
+/*G3*/
+
+body {
+    background: black;
+
+}
+
+/*left_box*/
+
+div7 {
+    width: 33%;
+    border: 3.2px solid rgb(52, 231, 7);
+    float: left;
+    height: 1000px;
+    color: white;
+    margin: auto;
+    font-size: 20px;
+  
+  }
+
+  #privacy_zone {
+    margin-top: 180px;
+    font-size: 90px;
+  }
+
+  /*right_box*/
+
+  
+  div8 {
+    width: 33%;
+    border: 3px solid rgb(52, 231, 7);
+    float: right;
+    height: 1000px;
+    color: white;
+    margin: auto;
+    font-size: 20px;
+ 
+  }
+
+  #general_strat {
+    margin-top: 200px;
+    font-size: 60px;
+  }
+
+/*center_box*/
+  
+div9 {
+    width: 33%;
+    border: 3px solid rgb(52, 231, 7);
+    float: right;
+    height: 1000px;
+    color: white;
+    margin: auto;
+
+  }
+
+  #players {
+    margin-top: 230px;
+    font-size: 60px;
+  }
+
+  
